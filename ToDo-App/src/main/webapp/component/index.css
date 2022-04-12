@@ -1,0 +1,31 @@
+.home-page-content {
+	display: flex;
+    margin: auto;
+    width: 80%;
+}
+
+.first-image {
+	width: 60%;
+}
+
+.heading-text {
+	font-weight: bold;
+    margin: 30px;
+}
+
+
+.container {
+	margin-top: 60px;
+}
+
+.table-head {
+	font-size: 25px;
+}
+
+.table-body {
+	font-size: 25px;
+}
+
+.point {
+	font-size: 25px;
+}
